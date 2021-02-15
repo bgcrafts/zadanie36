@@ -7,6 +7,5 @@ let f = function (a, b) {
     else if (a + b < 20 || a + b == 20) {
         return true;
     }
-
-
 }
+console.log(f(5,6));
